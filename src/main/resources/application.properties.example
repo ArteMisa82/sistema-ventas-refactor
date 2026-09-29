@@ -1,0 +1,3 @@
+db.url=jdbc:postgresql://localhost:5432/BASE
+db.username=USUARIO
+db.password=TU_CONTRASENA

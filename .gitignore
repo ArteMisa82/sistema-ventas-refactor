@@ -1,0 +1,12 @@
+target/
+*.class
+
+.idea/
+.vscode/
+nbproject/private/
+
+*.log
+
+.env
+
+src/main/resources/application.properties
